@@ -49,7 +49,7 @@ Welcome to the ATIWEB Lecturer Management System! This system allows lecturers t
 2. You will be logged out of the system and redirected to the login page.
 
 ---
-(https://github.com/rihamnazeer/ATIWEB/blob/0cb680fa9fc2d499f2a923efc3d07967c4b9799c/IMG/REGISTER.png)
+https://github.com/rihamnazeer/ATIWEB/blob/main/IMG/REGISTER.png?raw=true
 (https://github.com/rihamnazeer/ATIWEB/blob/0cb680fa9fc2d499f2a923efc3d07967c4b9799c/IMG/LOGIN.png)
 (https://github.com/rihamnazeer/ATIWEB/blob/0cb680fa9fc2d499f2a923efc3d07967c4b9799c/IMG/DASHBOARD.png)
 
