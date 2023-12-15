@@ -51,6 +51,7 @@ Welcome to the ATIWEB Lecturer Management System! This system allows lecturers t
 ---
 ![image](https://github.com/rihamnazeer/ATIWEB/assets/90144970/0566237d-fd08-430a-875d-fe9efe688f99)
 
+![image](https://github.com/rihamnazeer/ATIWEB/assets/90144970/423730a2-0942-4fb5-91a3-fd8934da6a9f)
 
 
 Thank you for using the ATIWEB Lecturer Management System!
