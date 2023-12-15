@@ -49,6 +49,8 @@ Welcome to the ATIWEB Lecturer Management System! This system allows lecturers t
 2. You will be logged out of the system and redirected to the login page.
 
 ---
-
+IMG/REGISTER.png
+IMG/REGISTER.png
+IMG/REGISTER.png
 
 Thank you for using the ATIWEB Lecturer Management System!
