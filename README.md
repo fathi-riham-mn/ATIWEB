@@ -8,7 +8,7 @@ Welcome to the ATIWEB Lecturer Management System! This system allows lecturers t
 ### Accessing the System
 
 1. Open your preferred web browser.
-2. Enter the URL for your system, for example,'http://localhost/ATIWEB/'
+2. Enter the URL for your system, for example,`http://localhost/ATIWEB/`.
 
 
 ### Registration
@@ -49,6 +49,6 @@ Welcome to the ATIWEB Lecturer Management System! This system allows lecturers t
 2. You will be logged out of the system and redirected to the login page.
 
 ---
-REGISTER.png
+
 
 Thank you for using the ATIWEB Lecturer Management System!
